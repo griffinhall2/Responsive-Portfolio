@@ -230,6 +230,11 @@ input[type=submit] {
     margin-left: 50px;
     width: 60%;
   }
+
+  footer {
+    position: fixed;
+    width: 100%;
+  }
 }
 
 @media screen and (max-width:768px){
@@ -241,6 +246,11 @@ input[type=submit] {
 
   #logo {
     margin-left: 0px;
+  }
+
+  footer {
+    position: fixed;
+    width: 100%;
   }
 }
 
@@ -266,4 +276,8 @@ input[type=submit] {
     width: 100%;
   }
 
+  footer {
+    position: fixed;
+    width: 100%;
+  }
 }
