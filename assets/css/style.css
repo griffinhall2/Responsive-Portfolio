@@ -258,6 +258,8 @@ input[type=submit] {
   .main-section {
     width: 100%;
     margin-left: 0px;
+    margin-top: 40px;
+    margin-bottom: 200px;
   }
 
   #logo {
